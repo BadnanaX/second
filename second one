@@ -1,3 +1,1 @@
-local base64_encoded_url = "aHR0cHM6Ly9yYXcuZ2l0aHViLmNvbS9CYWRuYW5hWC9hbGFhbGFsYS9tYWluL2RlY29kZWQ="
-local decoded_url = base64_decode(base64_encoded_url)
-loadstring(game:HttpGet(decoded_url))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BadnanaX/alalala/main/decoded'))()
